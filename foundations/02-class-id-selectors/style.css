@@ -1,0 +1,16 @@
+.pempemsi {
+    background-color:rgb(255, 192, 203);
+    font-family:Verdana, "Dejavu Sans", sans-serif;
+}
+#tuhaf {
+    color: rgb(0,0,160);
+    font-size: 36px;
+}
+.buyuk {
+    font-size: 24px;
+}
+#degisik {
+    background-color: rgb(144,238,144);
+    font-size: 24px;
+    font-weight: bold;
+}
